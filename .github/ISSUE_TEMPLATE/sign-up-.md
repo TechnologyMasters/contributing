@@ -1,7 +1,6 @@
 ---
-name: "Volunteer sign up"
-about: Simple form to collect volunteer info
-
+name: "Volunteer"
+about: Volunteer sign up
 ---
 
 <!-- Note: use the preview feature before you hit submit to ensure your markdown is formatted properly --> 
