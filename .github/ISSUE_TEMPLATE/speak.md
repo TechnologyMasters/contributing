@@ -9,9 +9,9 @@ about: Call for Papers
 
 > Please indicate that you have read the following:
 
-- [ ] [Call for Papers](../../cfp.md)
-- [ ] [Code of Conduct](../../conduct.md)
-- [ ] [Compensation Policy](../../compensation.md)
+- [ ] [Call for Papers](../blob/master/cfp.md)
+- [ ] [Code of Conduct](../blob/master/conduct.md)
+- [ ] [Compensation Policy](../blob/master/compensation.md)
 
 ## Your Talk
 
@@ -50,7 +50,7 @@ about: Call for Papers
 
 ### Travel Assistance
 
-Do you want to apply for travel assistance? please review our [Compensation Policy](./compensation.md)
+Do you want to apply for travel assistance?
 
 - [ ] Yes
 - [ ] No
