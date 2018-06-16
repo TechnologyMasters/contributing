@@ -1,12 +1,12 @@
 ---
-name: "[Your Name]"
+name: "Volunteer sign up"
 about: Simple form to collect volunteer info
 
 ---
 
 <!-- Note: use the preview feature before you hit submit to ensure your markdown is formatted properly --> 
 
-### Name 
+### Name
 
 > replace this line with your full name
 
