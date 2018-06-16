@@ -16,8 +16,8 @@ repository:
 labels:
   - name: Talks
     description: Call for Papers
-    color: EE3F46
+    color: c5def5
 
   - name: Volunteers
     description: Volunteer sign up
-    color: EE3F46
+    color: c2e0c6
