@@ -1,0 +1,23 @@
+repository:
+  name: contributing
+  description: Contribute to Functions Conf
+  topics: conference, functions, faas, serverless, serverlessdays, serverlessTO, serverlessVan
+  homepage: https://functions.world
+  private: false
+  has_issues: true
+  has_wiki: false
+  has_downloads: false
+  has_projects: false
+  default_branch: master
+  allow_squash_merge: true
+  allow_merge_commit: false
+  allow_rebase_merge: true
+
+labels:
+  - name: Talks
+    description: Call for Papers
+    color: EE3F46
+
+  - name: Volunteers
+    description: Volunteer sign up
+    color: EE3F46
