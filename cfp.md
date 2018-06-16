@@ -4,7 +4,7 @@
 
 Our planning process starts with great quality content, we carefully select topics that our attendees can go right back to work and start adopting. Those topics are laid out [below](#topics) and messaged to our attendees on our website well before announcing speakers, we then find amazing speakers to talk in those spots. This is a lot different than the traditional CFP process.
 
-Don't see a topic you can speak to below? Don't worry submit any way! We read every submission and if you can convince us, we will pursue it further to ensure that it is ready for our primarily startup and enterprise focused attendees, who are looking for talks that they can go back to work with knowledge of how to implement into existing systems, over something that would require them to start a project in a new stack.
+Don't see a topic you can speak to below? Don't worry submit any way! We read every submission and if you can convince us, we will pursue it further to ensure that it is ready for our primarily startup and enterprise focused attendees.
 
 ### Topics
 
@@ -28,7 +28,7 @@ Don't see a topic you can speak to below? Don't worry submit any way! We read ev
 
 ### Diversity & Inclusion
 
-We want an event that everyone can be proud of. Part of our mission is to support speakers coming from typically underrepresented demographics, so we encourage you to submit and share with your network so we have a large and diverse submission pool to select from. We want to ensure we have an inclusive event, for this reason, **you will be required to legally bind yourself to our code of conduct in our contract process**, and we will investigate you as a speaker to ensure we see the quality and exemplary behavior.
+We want an event that everyone can be proud of. Part of our mission is to support speakers coming from typically underrepresented demographics, so we encourage you to submit and share with your network so we have a large and diverse submission pool to select from. We want to ensure we have an inclusive event, for this reason, **you will be required to legally bind yourself to our code of conduct in our contract process**, and we will investigate you as a speaker to ensure we see the quality and exemplary behaviour.
 
 ### Content
 
