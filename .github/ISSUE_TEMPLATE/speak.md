@@ -5,6 +5,14 @@ about: Call for Papers
 
 <!-- Note: use the preview feature before you hit submit to ensure your markdown is formatted properly --> 
 
+## Required Reading
+
+> Please indicate that you have read the following:
+
+- [ ] [Call for Papers](../../cfp.md)
+- [ ] [Code of Conduct](../../conduct.md)
+- [ ] [Compensation Policy](../../compensation.md)
+
 ## Your Talk
 
 ### Talk Title Here
@@ -25,7 +33,6 @@ about: Call for Papers
 ### Description
 
 > The description will be seen by reviewers during the CFP process and may eventually be seen by the attendees of the event.
->
 > You should make the description of your talk as compelling and exciting as possible. Remember, you're selling both the organizers of the events to select your talk, as well as trying to convince attendees your talk is the one they should see.
 
 ### Notes
@@ -45,15 +52,15 @@ about: Call for Papers
 
 Do you want to apply for travel assistance? please review our [Compensation Policy](./compensation.md)
 
-- \[] Yes
-- \[] No
+- [ ] Yes
+- [ ] No
 
 ### Additional Info
 
 Please provide a link(s) to a video of a previous speaking engagement.
 
-- \[] Do you require any specials meals, assistance, etc...
-- \[] Are you a member of an under represented community?
+- [ ] Do you require any specials meals, assistance, etc...
+- [ ] Are you a member of an under represented community?
 
 ### Shirt size
 
