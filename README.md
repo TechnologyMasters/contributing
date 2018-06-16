@@ -10,7 +10,7 @@ Apply to speak at our event, read more about our topics and themes, in our [Call
 
 Wish to help us put on a fun, inclusive and educational event for our attendees?
 
-**[Signup as a Volunteer](../../issues/new?template=volunteer.md)**
+**[Sign up as a Volunteer](../../issues/new?template=volunteer.md)**
 
 ## Required Reading
 
