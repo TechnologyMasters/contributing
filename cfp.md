@@ -2,9 +2,9 @@
 
 ## High Quality Practical Content
 
-Our planning process starts with great quality content, we carefully select topics that our attendees can go right back to work and start adopting. Those topics are laid out [below](#topics) and messaged to our attendees on our website well before announcing speakers, we then find amazing speakers to talk in those spots. This is a lot different than the traditional CFP process.
+Our planning process starts with looking for high quality content. Our CFP process is a little non-traditional: we carefully select topics that our attendees can absorb and begin adopting at work immediately. Those topics are laid out [below](#topics), and they are messaged to our attendees on our website well before announcing speakers. we then work with our community to find amazing speakers to talk in those spots.
 
-Don't see a topic you can speak to below? Don't worry submit any way! We read every submission and if you can convince us, we will pursue it further to ensure that it is ready for our primarily startup and enterprise focused attendees.
+Don't see a topic you feel comfortable speaking about? No worries, submit anyway! We read **every submission** and if you can convince us, we will pursue it further to ensure that it is ready for our primarily startup and enterprise focused attendees.
 
 ### Topics
 
@@ -38,12 +38,12 @@ You will be required to submit your slides ahead of time to ensure you a quality
 
 ### What to expect from us
 
-We accept submissions on a rolling basis, if your session and profile match what we have decided are must haves you will receive a contract from us, then be published on the site, then receive your ticket which has discounts for booking flights and hotels. You are in charge of booking your travel and arriving prepared, we will reimburse those being paid after the event.
+We accept submissions on a rolling basis, if your session and profile match what we have decided are must haves you will receive a contract from us, be published on the site, then receive your conference ticket which has discounts for booking  both flights and hotels. You are in charge of booking your travel and arriving prepared, and should you be eligible for reimbursement we will do so following the event.
 
-If you haven't heard from us, that doesn't mean it's a no from us, it's just a not right now. Since we curate things a bit differently we slot in a few things in advanced, to help with marketing, then supplement them with complimentary talks. There are also some topics that we simply can't decide on until closer to the event because they might not be relevant any more.
+If you haven't heard from us after submitting, be patient! If you don't receive word before July 31st that doesn't mean it's a no from us, it's just a not right now. We spend time curating content a bit differently: we first slot in a few killer topics likely to excite the community and get them curious in advance to help with marketing, then we supplement these topics with complementary talks. There are also some topics that we simply can't decide on until closer to the event due to the evolving state of the industry: relevance can change quickly.
 
 Once our schedule is filled up you will hear from us regardless, this should not be later than July 31st.
 
 ## Travel Assistance
 
-Please consult our [Compensation Policy](./compensation.md) for details, and if you have any questions, suggestions or special requests, please [contact us](./contact.md) we are happy to accommodate special requests within our capacity.
+Please consult our [Compensation Policy](./compensation.md) for details, and if you have any questions, suggestions or special requests, please [contact us](./contact.md). We are happy to accommodate special requests within our capacity.
